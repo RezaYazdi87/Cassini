@@ -1,6 +1,8 @@
 # Cassini
 Cassini Ovals for Robust Mitosis Detection in Cellular Imaging
 
+Reza Yazdi, Hassan Khotanlou
+RIV Lab., Department of Computer Engineering, Bu-Ali Sina University, Hamedan, Iran
 
 ABSTRACT
 Background and Objective: Accurate detection of mitosis is crucial in automated cell analysis, yet many existing methods depend heavily on deep learning models or complex detection techniques, which can be computationally intensive and error-prone, particularly when segmentation is incomplete. This study presents a novel unsupervised method for mitosis detection, leveraging the geometric properties of the Cassini oval to reduce computational costs and enhance robustness.
